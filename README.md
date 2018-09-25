@@ -10,3 +10,10 @@ Licences:
 - LGPL
 - MIT
 - GNU
+
+# Java
+- https://docs.oracle.com/javase/tutorial/essential/environment/sysprop.html - full list of System.getProperty() method
+
+# OS
+- http://lopica.sourceforge.net/os.html - System.getProperty("os.name") - list of possible values
+- 
