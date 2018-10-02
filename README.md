@@ -11,6 +11,10 @@ Licences:
 - MIT
 - GNU
 
+# REST Assured
+- http://static.javadoc.io/io.rest-assured/rest-assured/3.1.1/index.html - overview of REST Assured classes
+- https://github.com/rest-assured/rest-assured/wiki/Usage - simple examples of usage
+
 # Java
 - https://docs.oracle.com/javase/8/docs/api/java/lang/System.html#getProperties-- - full list of System.getProperty() method
 
