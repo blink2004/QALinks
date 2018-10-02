@@ -11,6 +11,9 @@ Licences:
 - MIT
 - GNU
 
+# Useful Software
+- Franz - aggregator of different chat-rooms, such as Slack, Telegram, Viber, etc. It "eat" RAM less then Viber. (Сборщик разных чатов (Slack, Telegram, Viber и т.д.), "ест" гораздо меньше оперативы, чем Slack)
+
 # REST Assured
 - http://static.javadoc.io/io.rest-assured/rest-assured/3.1.1/index.html - overview of REST Assured classes
 - https://github.com/rest-assured/rest-assured/wiki/Usage - simple examples of usage
